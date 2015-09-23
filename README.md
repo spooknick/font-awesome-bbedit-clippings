@@ -1,6 +1,6 @@
 #BBEdit Clippings for Font Awesome
 
-BBEdit Clipping set for [Font Awesome icons](http://fontawesome.io) 4.1.0.
+BBEdit Clipping set for [Font Awesome icons](http://fontawesome.io) 4.4.0.
 
 
 ##Installation
